@@ -19,5 +19,5 @@
 
 
 [instagram]: https://www.instagram.com/fiat_._
-[facebook]: https://facebook.com/https://www.facebook.com/lebaotai0711
+[facebook]: https://www.facebook.com/lebaotai0711
 [youtube]: https://www.youtube.com/channel/UCxn8oPFkR96wwegSEV2LESg
