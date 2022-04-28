@@ -7,8 +7,10 @@
 
 ### Studying in progress 🔥🔥🔥
 
-![cpp](https://user-images.githubusercontent.com/79523633/165793951-c636b095-ac64-48d6-8b83-3489e9a0ebca.png)
-![unreal](https://user-images.githubusercontent.com/79523633/165793966-7c1cecbe-9b8b-4a29-9213-4d96418ba1f3.png)
+![unreal](https://user-images.githubusercontent.com/79523633/165794316-4972c5ad-dd4b-402b-90ca-33c1742fca79.png)
+![cpp](https://user-images.githubusercontent.com/79523633/165794399-a8663e75-a38d-4247-a307-3f19ecc78af0.png)
+
+
 
 <br>
 <br>
