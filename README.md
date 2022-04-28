@@ -4,7 +4,7 @@
 
 ### Studying in progress 🔥🔥🔥
 
-<img src="E:\SVG\unreal-engine-svgrepo-com.svg">
+<img height="2" src="E:\SVG\unreal-engine-svgrepo-com.svg">
 
 <br>
 <br>
