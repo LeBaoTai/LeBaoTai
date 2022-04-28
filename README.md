@@ -11,10 +11,6 @@
 ![python](https://user-images.githubusercontent.com/79523633/165795081-537326cb-1644-48e1-93ac-fc7606fc39f3.png)
 ![cpp](https://user-images.githubusercontent.com/79523633/165795097-8f378860-ace4-4778-8a69-60bd6dfeedb2.png)
 
-
-<br>
-<br>
-
 ### Connect with me
 
 
