@@ -1,6 +1,7 @@
 ### Hiiiiiiiii 👋
 ## >.<
 - 👨‍💻 I'm a student at Saigon University 
+- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 <!--
 **LeBaoTai/LeBaoTai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[instagram]: https://www.instagram.com/fiat_._
+
 <br>
 <br>
 
