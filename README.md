@@ -11,7 +11,10 @@
 ![python](https://user-images.githubusercontent.com/79523633/165795081-537326cb-1644-48e1-93ac-fc7606fc39f3.png)
 ![cpp](https://user-images.githubusercontent.com/79523633/165795097-8f378860-ace4-4778-8a69-60bd6dfeedb2.png)
 
-### Connect with me
+### Connect with me 💬💬
+
+[![social-network](https://user-images.githubusercontent.com/79523633/165798874-4faabc00-54e4-4c12-a436-883f7e349cf9.png)][instagram]
+
 
 
 [instagram]: https://www.instagram.com/fiat_._
