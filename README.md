@@ -15,7 +15,6 @@
 
 [![facebook](https://user-images.githubusercontent.com/79523633/165798874-4faabc00-54e4-4c12-a436-883f7e349cf9.png)][facebook]
 [![instagram](https://user-images.githubusercontent.com/79523633/165799137-f79039c0-ba6e-48cf-b070-d678a5cfd76b.png)][instagram]
-[![youtube](https://user-images.githubusercontent.com/79523633/165799214-08693756-00aa-4ad3-9277-4a54a23cbffe.png)][youtube]
 
 
 [instagram]: https://www.instagram.com/fiat_._
