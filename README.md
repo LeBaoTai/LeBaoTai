@@ -7,8 +7,7 @@
 
 # Studying in progress 🔥🔥🔥
 
-![unreal](https://user-images.githubusercontent.com/79523633/165794316-4972c5ad-dd4b-402b-90ca-33c1742fca79.png)
-![cpp](https://user-images.githubusercontent.com/79523633/165795097-8f378860-ace4-4778-8a69-60bd6dfeedb2.png)
+
 
 # Connect with me 💬💬
 
