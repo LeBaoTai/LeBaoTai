@@ -1,20 +1,4 @@
-# 👋👋👋👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=10DD46&center=true&vCenter=true&random=false&width=440&height=60&lines=Hi+there!!+%F0%9F%99%8C;I'm+T%C3%A0i+%F0%9F%99%8E%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
+</h1>
 
-![Hello](https://user-images.githubusercontent.com/79523633/165792461-5d4dc3a3-bb5b-4f6c-9fe0-c7971e2f6e97.jpg)
-
-# Me
-- 👨‍💻 I'm a student at Saigon University
-
-# Studying in progress 🔥🔥🔥
-
-
-
-# Connect with me 💬💬
-
-[![facebook](https://user-images.githubusercontent.com/79523633/165798874-4faabc00-54e4-4c12-a436-883f7e349cf9.png)][facebook]
-[![instagram](https://user-images.githubusercontent.com/79523633/165799137-f79039c0-ba6e-48cf-b070-d678a5cfd76b.png)][instagram]
-
-
-[instagram]: https://www.instagram.com/fiat_._
-[facebook]: https://www.facebook.com/lebaotai0711
-[youtube]: https://www.youtube.com/channel/UCxn8oPFkR96wwegSEV2LESg
