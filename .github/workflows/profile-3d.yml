@@ -14,7 +14,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.@LeBaoTai }}
+          USERNAME: ${{ github.LeBaoTai }}
       - name: Commit & Push
         run: |
           git config user.email fnight644@gmail.com
