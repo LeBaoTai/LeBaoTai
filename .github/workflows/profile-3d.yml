@@ -27,6 +27,7 @@ jobs:
           filename: iso_calender.svg
           token: ${{ secrets.METRICS_SECRET }}
           template: classic
+          user: LeBaoTai
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
