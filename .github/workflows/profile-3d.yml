@@ -1,24 +1,19 @@
-name: GitHub-Profile-3D-Contrib
-
+name: Metrics
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
-          USERNAME: ${{ github.repository_owner  }}
-      - name: Commit & Push
-        run: |
-          git config user.name LeBaoTai
-          git config user.email fnight644@gmail.com
-          git add -A .
-          git commit -m "generated"
-          git push
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.PROFILE_TOKEN }}
