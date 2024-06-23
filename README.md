@@ -5,7 +5,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There!, I'm
                 <b><a target="_blank">Lê Bảo Tài</a></b>
         </samp>
 </h3>
@@ -13,7 +13,7 @@
   <samp>
     <a href="https://github.com/lebaotai">「 About Me 」</a>
     <br>
-    「 I am a developer from <b>Go Cong Dong</b> 」
+    「 I'm a developer from <b>Go Cong Dong</b> 」
     <br>
     <br>
   </samp>
