@@ -35,4 +35,4 @@
 </p>
 <br />
 
-<p align="center"><img src="profile-3d-contrib/profile-south-season-animate.svg" alt="Metrics" width="750"></p>
+<p align="center"><img src="profile-3d-contrib/profile-south-season-animate.svg" alt="Metrics" width="700"></p>
