@@ -13,7 +13,7 @@
   <samp>
     <a href="https://github.com/lebaotai">「 About Me 」</a>
     <br>
-    「 I'm a developer from <b>Go Cong Dong</b> 」
+    「 A developer from <b>Go Cong Dong</b> 」
     <br>
     <br>
   </samp>
