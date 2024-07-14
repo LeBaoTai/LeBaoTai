@@ -5,7 +5,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I'm
+        <samp>&gt; I'm
                 <b><a target="_blank">Lê Bảo Tài</a></b>
         </samp>
 </h3>
