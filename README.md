@@ -20,9 +20,6 @@
 </p>
 
 <p align="center">
-<!--  <a href="https://lebaotai.cargo.site" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="lbt" />
- </a> -->
  <a href="https://linkedin.com/in/le-tai-904b742a0/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lbt"/>
  </a>
@@ -34,5 +31,3 @@
   </a> 
 </p>
 <br />
-
-<p align="center"><img src="profile-3d-contrib/profile-south-season-animate.svg" alt="Metrics" width="700"></p>
