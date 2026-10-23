@@ -13,7 +13,7 @@
   <samp>
     <a href="https://github.com/lebaotai">「 About Me 」</a>
     <br>
-    「 A network engineer with <b>Development Passion</b> 」
+    「 A non-developer with Development Passion 」
     <br>
     <br>
   </samp>
